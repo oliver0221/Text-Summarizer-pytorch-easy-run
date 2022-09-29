@@ -1,0 +1,11 @@
+*.bin
+*.xlsx
+data_process
+PreLCSTS
+*.csv
+*.txt
+__pycache__
+.vscode
+*.log
+*demo.tar
+vocab
